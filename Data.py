@@ -6,11 +6,11 @@ class Data:
     START = """
 Hey {}
 
-Welcome to {}
+MERHABA DOSTUM {}
 
-You can use me to manage channels with tons of features. Use below buttons to learn more !
+TONLARCA ÖZELLİKLİ KANALLARI YÖNETMEK İÇİN BENİ KULLANABİLİRSİNİZ. DAHA FAZLA BİLGİ İÇİN AŞAĞIDAKİ BUTONLARI KULLANIN 
 
-By @StarkBots
+Bye @SancakBotlar
     """
 
     # Home Button
@@ -31,8 +31,8 @@ By @StarkBots
 
     # Help Message
     HELP = """
-Everything is self explanatory after you add a channel.
-To add a channel use keyboard button 'Add Channels' or alternatively for ease, use `/add` command
+Bir kanal ekledikten sonra her şey açıklayıcıdır. Kanal eklemek için klavyedeki 'Kanal Ekle' düğmesini kullanın veya alternatif olarak kolaylık sağlamak için '/add' komutunu kullanın
+
 
 ✨ **Kullanılabilir komutlar * ✨
 
