@@ -15,18 +15,18 @@ By @StarkBots
 
     # Home Button
     home_buttons = [
-        [InlineKeyboardButton(text="🏠 Return Home 🏠", callback_data="home")],
-    ]
+        [InlineKeyboardButton(text="🏠 Eve dön  🏠", callback_data="home")],
+    
 
     # Rest Buttons
     buttons = [
-        [InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/StarkBots/7")],
+        [InlineKeyboardButton("✨ DİĞER BOTLARIM ✨", url="https://t.me/sancakbotlar/7")],
         [
-            InlineKeyboardButton("How to Use ❔", callback_data="help"),
-            InlineKeyboardButton("🎪 About 🎪", callback_data="about")
+            InlineKeyboardButton(" ❔"NASIL KULLANILIR , callback_data="help"),
+            InlineKeyboardButton("🎪 HAKKINDA  🎪", callback_data="about")
         ],
-        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/StarkBots")],
-        [InlineKeyboardButton("🎨 Support Group 🎨", url="https://t.me/StarkBotsChat")],
+        [InlineKeyboardButton("♥ DAHA MUHTEŞEM BOTLAR  ♥", url="https://t.me/SancakBotlar")],
+        [InlineKeyboardButton("🎨 Support GRUBU 🎨", url="https://t.me/muhabbetofkings")],
     ]
 
     # Help Message
@@ -34,29 +34,30 @@ By @StarkBots
 Everything is self explanatory after you add a channel.
 To add a channel use keyboard button 'Add Channels' or alternatively for ease, use `/add` command
 
-✨ **Available Commands** ✨
+✨ **Kullanılabilir komutlar * ✨
 
-/about - About The Bot
-/help - This Message
-/start - Start the Bot
+/about - BOT HAKKINDA
+/help - YARDIM KOMUTU
+/start - BOTU BAŞLATIR
 
-Alternative Commands
-/channels - List added Channels
-/add - Add a channel
-/report - Report a Problem
+Alternatif Komutlar
+/channels - Eklenen kanalları listele 
+/add - Kanal Ekle
+/report - Problemi Rapor Et
     """
 
     # About Message
     ABOUT = """
-**About This Bot** 
+**BOT HAKKINDA** 
 
-A telegram channel automation bot by @StarkBots
+@SancakBotlar 'dan bir Telegram kanal otomasyon botu
 
-Source Code : [Click Here](https://github.com/StarkBotsIndustries/ChannelBot)
+Ka
+ADMİNİN HESABİ: Click Here](https://t.me/sancakbegi)
 
-Framework : [Pyrogram](docs.pyrogram.org)
+PYROGRAM: [Pyrogram](docs.pyrogram.org)
 
-Language : [Python](www.python.org)
+DIL : [Python](www.python.org)
 
-Developer : @StarkProgrammer
+Developer : @sancakbegi
     """
